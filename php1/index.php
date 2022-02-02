@@ -20,9 +20,9 @@
   <input type="radio" id="sprogrammer" name="programmer" value="sprogrammer">
   <label for="sprogrammer">Sensior programmer</label>
   <input type="radio" id="projectlead" name="programmer" value="projectlead">
-  <label for="projectlead">Project Lead</label>
+  <label for="projectlead">Project Lead</label><br>
  <label for="file">file choose</label>
-  <input type="file" id="file" name="file" value="file">
+  <input type="file" id="file" name="file" value="file"><br>
  
 <input type="submit" value="Submit">
 <input type="Reset" value="Reset">
