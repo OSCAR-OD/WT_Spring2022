@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "trtttttttt",
+        "age": "please enter a valid age",
+        "checkbox": "you have not selected box"
+    },
+    {
+        "Name": "trtttttttt",
+        "age": "please enter a valid age",
+        "checkbox": "you have not selected box"
+    },
+    {
+        "Name": "aaaaaaaa",
+        "age": "please enter a valid age",
+        "checkbox": "you have selectedbox1"
+    }
+]
